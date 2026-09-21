@@ -1,0 +1,10 @@
+interface:
+  display_name: Printful Knowledge
+  short_description: Printful products, workflows, and POD guidance
+  icon_small: ./assets/icon-small.svg
+  icon_large: ./assets/icon-large.png
+  brand_color: '#0AA69A'
+  default_prompt: Use $printful-knowledge to answer this Printful question knowledge-first
+    and identify whether current or authenticated data is actually required.
+policy:
+  allow_implicit_invocation: true
