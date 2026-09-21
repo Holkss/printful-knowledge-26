@@ -13,8 +13,8 @@ Established: 2026-09-21
 
 ## Assets
 
-- `skills/printful-knowledge/assets/icon-small.svg` — compact vector skill icon.
-- `assets/logo-github.svg` — repository-facing hero logo.
+- `icon-small.svg` — compact skill-list/app icon.
+- `icon-large.png` — larger repository/skill-page logo derived from the approved HM Knowledge logo.
 
 Both assets are original AI-assisted artwork created for this project at the user's direction.
 

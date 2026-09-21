@@ -1,7 +1,7 @@
 # Printful Knowledge
 
 <p align="center">
-  <img src="assets/logo-github.svg" alt="Printful Knowledge logo" width="520">
+  <img src="skills/printful-knowledge/assets/icon-large.png" alt="Printful Knowledge logo" width="420">
 </p>
 
 **Created by HM**  
@@ -24,14 +24,13 @@ It helps with Printful products, catalog variants, production methods, branding,
 
 ```text
 printful-knowledge-26/
-├── assets/
-│   └── logo-github.svg
 ├── skills/
 │   └── printful-knowledge/
 │       ├── SKILL.md
 │       ├── agents/openai.yaml
 │       ├── assets/
-│       │   └── icon-small.svg
+│       │   ├── icon-small.svg
+│       │   └── icon-large.png
 │       └── references/
 ├── docs/
 │   ├── BUILD-BASIS.md
